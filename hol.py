@@ -1,2 +1,2 @@
 print("g")
-num= 2
+num= 3
