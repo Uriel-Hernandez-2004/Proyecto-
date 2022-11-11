@@ -1,2 +1,2 @@
 print("g")
-num= 0
+num= 1
