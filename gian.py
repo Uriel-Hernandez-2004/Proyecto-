@@ -1,1 +1,1 @@
-print("hola niggers")
+print("hola niggers y putos")
